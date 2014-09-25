@@ -18,6 +18,11 @@ There is a headless, non-GUI version too, which you can run by appending the --h
 
 This software was built for a specific purpose, but I am willing to maintain it if you find bugs - please let me know via my Github page.
 
+Solar Irradiance
+----------------
+
+Calculates the solar irradiance (watts per square metre) on a given piece of ground. See /solar-irradiance/README.md for details.
+
 Sean Leavey
 September 2014
 https://github.com/SeanDS/
